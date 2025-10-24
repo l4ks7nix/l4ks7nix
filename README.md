@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @l4ks7nix
+- 👋 Hi, I’m Lucas
 - 👀 I’m interested in programming in HTML,CSS and doing things in photoshop
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ...
